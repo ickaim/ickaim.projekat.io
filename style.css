@@ -75,7 +75,7 @@ body{
   padding-bottom: 40px;
 }
 #bg-image {
-  background-image: url(img/main.gif);
+  background-image: url("https://github.com/ickaim/ickaim.projekat.io/blob/gh-pages/img/main.gif");
   background-repeat: none;
   width: 100%;
   height: 100%;
